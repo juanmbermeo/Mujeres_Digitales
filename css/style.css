@@ -1,0 +1,63 @@
+body.login {
+    background-color: #fe003b;
+    background: linear-gradient(to right, #9000ff, #ff0000);
+}
+.bg {
+    background-image: url(../img/family.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+:root {
+    --danger: white;
+    --primary: black;
+}
+
+
+.form1 {
+    background-color: white;
+    width: 500px;
+}
+
+.nav1 a{
+    text-decoration: none;
+}
+
+.nav1 {
+    min-height: 200vh;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.rounded {
+    border-radius: 20px;
+}
+.service-card {
+    width: 13rem;
+    margin-bottom: 1rem;
+}
+
+.menu_vertical {
+    background-color: #fe003b;
+    background: linear-gradient(to right, #9000ff, #ff0000);
+    border: none;
+}
+
+.linea {
+    color: aliceblue;
+}
+
+.vh-100 {
+    height: 100vh;
+}
+.d-flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    color: var(--danger);
+}
